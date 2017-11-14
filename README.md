@@ -8,7 +8,7 @@ Please feel very free to make improvements.  No ego here.  Happy to make it bett
 
 A few of many limitations:
 
-This was made to only allow connections from the USA.  This means the database is from ARIN.  ARIN only covers the US, Canada and Carribbean.  Feel free to add other regional registrars.  If you want to add other and dont want to do it yourself, let me know.  We can make it happen for $1,000,000 or less(prob less).
+This was made to only allow connections from the USA.  This means the database is from ARIN.  ARIN only covers the US, Canada and Carribbean.  Feel free to add other regional registrars.  If you want to add others, clean it up, add other functionalty, and dont want to do it yourself, let me know.  We can make it happen for $1,000,000 or less(prob less).
 
 Also this is dependent on ARIN continuing to publish IPs from the URL they currently publish to, in the format they use.  If they stop or change, it's all over.
 
