@@ -8,7 +8,7 @@ Please feel very free to make improvements.  No ego here.  Happy to make it bett
 
 A few of many limitations:
 
-This was made to only allow connections from the USA.  This means the database is from ARIN.  ARIN only covers the US, Canada and Carribbean.  Feel free to add other regional registrars.  If you want to add others, clean it up, add other functionalty, and dont want to do it yourself, let me know.  We can make it happen for $1,000,000 or less(prob less).
+This was made to only allow connections from the USA.  This means the database is from ARIN.  ARIN only covers the US, Canada and Carribbean.  Feel free to add other regional registrars(links below).    If you want to add others, clean it up, add other functionalty, and dont want to do it yourself, let me know.  We can make it happen for $1,000,000 or less(prob less).
 
 Also this is dependent on ARIN continuing to publish IPs from the URL they currently publish to, in the format they use.  If they stop or change, it's all over.
 
@@ -17,4 +17,10 @@ Last thing is a little preachy.  Whitelists are a layer in security.  They are e
 Enjoy!
 
 
+Links to all ip DBs:
 
+ftp://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest
+ftp://ftp.ripe.net/ripe/stats/delegated-ripencc-latest
+ftp://ftp.afrinic.net/pub/stats/afrinic/delegated-afrinic-latest
+ftp://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest
+ftp://ftp.lacnic.net/pub/stats/lacnic/delegated-lacnic-latest
